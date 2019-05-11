@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>BlackEric001.LjPoster</id>
+    <version>0.0.1</version>
+    <title>LiveJournal Poster</title>
+    <authors>BlackEric001</authors>
+    <owners>BlackEric001</owners>
+    <licenseUrl>https://github.com/BlackEric001/LiveJournalPoster/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/BlackEric001/LiveJournalPoster</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Simple library for add new posts to Livejournal via XML-RPC protocol </description>
+    <releaseNotes>Initial release</releaseNotes>
+    <copyright>Copyright 2019</copyright>
+    <tags>xml-rpc livejournal post</tags>
+  </metadata>
+</package>
