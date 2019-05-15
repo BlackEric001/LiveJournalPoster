@@ -6,7 +6,7 @@
     <title>LiveJournal Poster</title>
     <authors>BlackEric001</authors>
     <owners>BlackEric001</owners>
-    <licenseUrl>https://github.com/BlackEric001/LiveJournalPoster/blob/master/LICENSE</licenseUrl>
+    <license type="expression">Apache-2.0</license>
     <projectUrl>https://github.com/BlackEric001/LiveJournalPoster</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Simple library for add new posts to Livejournal via XML-RPC protocol </description>
