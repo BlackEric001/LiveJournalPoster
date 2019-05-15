@@ -25,8 +25,6 @@ namespace LjPoster
             challenge.auth_response = Md5.GetMd5Hash(answer.challenge + user.hpassword);
             challenge.username = user.username;
 
-            post.TagList = "Картинка дня, космос";
-
             provider.Publish(challenge, post);
 
             return true;

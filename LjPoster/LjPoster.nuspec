@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+﻿<?xml version="1.0"?>
 <package >
   <metadata>
     <id>BlackEric001.LjPoster</id>
@@ -11,7 +11,11 @@
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Simple library for add new posts to Livejournal via XML-RPC protocol </description>
     <releaseNotes>Initial release</releaseNotes>
-    <copyright>Copyright 2019</copyright>
+    <copyright>Copyright ©2019 BlackEric001</copyright>
     <tags>xml-rpc livejournal post</tags>
+	<dependencies>
+            <dependency id="Horizon.XmlRpc.Client" version="2.5.0" />
+			<dependency id="Horizon.XmlRpc.Core" version="2.5.0" />
+    </dependencies>
   </metadata>
 </package>
