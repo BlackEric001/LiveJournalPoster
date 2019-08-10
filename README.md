@@ -8,7 +8,7 @@ Simple library for add new posts to Livejournal via XML-RPC protocol.
 
 ##
     UserPassword up = new UserPassword();
-    up.username = "test0001x";
+    up.username = "user_name_without_domain";
     up.hpassword = "md5 password hash";
     Post post = new Post();
     post.Content = "test";
