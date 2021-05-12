@@ -17,4 +17,9 @@ Simple library for add new posts to Livejournal via XML-RPC protocol.
     Poster ljPoster = new Poster();
     ljPoster.MakeNewPost(up, post);
 
+3. Get iframe for posting video from youtube:
+
+##
+   var iframe = LjPoster.Helpers.CommonHelper.GetYoutubeIframe("https://youtu.be/OtzSlfQ2H08");
+
 

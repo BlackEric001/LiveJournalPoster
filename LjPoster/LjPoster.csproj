@@ -4,6 +4,17 @@
     <TargetFramework>netstandard2.1</TargetFramework>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <Version>0.0.2</Version>
+    <Description>Simple library for add new posts to Livejournal via XML-RPC protocol</Description>
+    <Copyright>Copyright ©2019-2021 BlackEric001</Copyright>
+    <PackageLicenseExpression>Apache-2.0</PackageLicenseExpression>
+    <Authors>BlackEric001</Authors>
+    <Company>BlackEric001</Company>
+    <PackageProjectUrl>https://github.com/BlackEric001/LiveJournalPoster</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/BlackEric001/LiveJournalPoster</RepositoryUrl>
+    <PackageTags>xml-rpc livejournal post lj.ru</PackageTags>
+    <PackageId>BlackEric001.LjPoster</PackageId>
+    <PackageReleaseNotes>1. Added netstandard 2.1 support
+2. Added generation iframe for posting video from yuotube</PackageReleaseNotes>
   </PropertyGroup>
 
   <ItemGroup>
