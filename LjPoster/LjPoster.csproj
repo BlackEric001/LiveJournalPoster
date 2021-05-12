@@ -14,7 +14,7 @@
     <PackageTags>xml-rpc livejournal post lj.ru</PackageTags>
     <PackageId>BlackEric001.LjPoster</PackageId>
     <PackageReleaseNotes>1. Added netstandard 2.1 support
-2. Added generation iframe for posting video from yuotube</PackageReleaseNotes>
+2. Added generation iframe for posting video from youtube</PackageReleaseNotes>
   </PropertyGroup>
 
   <ItemGroup>
